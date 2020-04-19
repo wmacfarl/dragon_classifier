@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="23.36998748779297" height="20.835941314697266" viewBox="1.8575921058654785 5.060016632080078 23.36998748779297 20.835941314697266">
+  <defs>
+    <linearGradient id="grad_1" y2="1" x2="0">
+      <stop offset="0" stop-color="#CCFFFF" stop-opacity="1"/>
+      <stop offset="1" stop-color="#CCFFFF" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="grad_2" y2="1" x2="0">
+      <stop offset="0" stop-color="#CCFFFF" stop-opacity="1"/>
+      <stop offset="1" stop-color="#CCFFFF" stop-opacity="0"/>
+    </linearGradient>
+  <linearGradient id="grad_1-,0,0,1,-214,-179" y2="24.896" x2="4.4995" x1="4.4995" y1="9.6893" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#CCFFFF" stop-opacity="1"/>
+      <stop offset="1" stop-color="#CCFFFF" stop-opacity="0"/>
+    </linearGradient></defs>
+  <!-- Exported by Scratch - http://scratch.mit.edu/ -->
+  <path id="ID0.35932795284315944" fill="#FFFFFF" stroke="#000000" stroke-width="1.4117531359574185" stroke-linecap="round" d="M 12.2954 19.3438 C 9.655 19.6516 7.1886 18.9535 5.0993 18.1664 C 3.9388 17.7296 3.6423 16.5049 3.2708 15.5057 C 2.8148 14.2588 2.7797 10.8497 2.9562 11.1056 C 3.1327 11.3615 2.8297 15.6825 4.3364 17.1723 C 5.775 18.6007 8.3463 19.582 11.0979 19.3852 C 13.9363 19.099 17.5659 17.8829 19.5539 15.858 C 22.3847 12.9459 23.7729 6.0316 23.8353 6.0601 C 23.8975 6.0881 22.9252 12.8339 20.2953 15.8041 C 18.5652 17.7496 15.0691 18.8098 12.2954 19.3438 Z "/>
+  <path id="ID0.13764113932847977" fill="url(#grad_1-,0,0,1,-214,-179)" stroke="none" stroke-linecap="round" d="M 10.15 19.05 C 11.069 19.049 11.847 18.948 12.65 18.7 C 14.727 18.048 17.265 17.521 19.15 16.05 C 21.22 14.494 23.951 8.498 24.15 9.9 C 24.452 12.047 24.021 21.115 20.15 24.3 C 17.462 26.45 13.498 22.152 10.075 21.35 C 8.782 21.047 7.143 21.112 6.134 20.727 C 5.125 20.343 4.533 19.871 4.5 19.225 C 4.475 18.705 5.443 18.503 6 18.55 C 7.395 18.442 8.759 19.047 10.15 19.05 Z " stroke-width="1"/>
+  <path id="ID0.8883167165331542" fill="#CCFFFF" stroke="url(#grad_2)" stroke-width="2" d="M 22.8 17.7 C 23.076 17.7 23.326 17.952 23.507 18.359 C 23.688 18.767 23.8 19.329 23.8 19.95 C 23.8 20.571 23.688 21.133 23.507 21.541 C 23.326 21.948 23.076 22.2 22.8 22.2 C 22.524 22.2 22.274 21.948 22.093 21.541 C 21.912 21.133 21.8 20.571 21.8 19.95 C 21.8 19.329 21.912 18.767 22.093 18.359 C 22.274 17.952 22.524 17.7 22.8 17.7 Z " style="stroke-linejoin: round; stroke-linecap: round;"/>
+</svg>
